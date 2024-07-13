@@ -3,7 +3,7 @@ export default {
       name: "LeetMate",
       slug: "leetmate",
       version: "1.0.0",
-      sdkVersion: "42.0.0",
+      sdkVersion: "51.0.0",
       platforms: ["ios", "android"],
       extra: {
         firebaseApiKey: process.env.FIREBASE_API_KEY,
